@@ -33,6 +33,5 @@ public class DemoTest01 {
         System.out.println(sw.getLastTaskInfo());
         System.out.println(sw.getTaskCount());
 
-        System.out.println("Branch1");
     }
 }
